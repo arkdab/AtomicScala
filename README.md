@@ -1,0 +1,2 @@
+# AtomicScala
+AtomicScala Exercises
