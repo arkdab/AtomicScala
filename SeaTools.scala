@@ -1,13 +1,13 @@
 //SeaTools.scala
 
 class Sailboat {
-    def raise = print ("Sails raised")
-    def lower = print ("Sails lowered")
+    def raise = "Sails raised"
+    def lower = "Sails lowered"
 }
 
 class Motrboat {
-    def MotorOn = println ("Motor on")
-    def MotorOff = println ("Motor off")
+    def MotorOn = "Motor on"
+    def MotorOff = "Motor off"
 }
 
 val sailboat = new Sailboat
