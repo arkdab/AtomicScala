@@ -16,3 +16,5 @@ val r1 = sailboat.raise
 assert (r1 == "Sails raised", "Expected Sails raised, Got " + r1)
 val r2 = sailboat.lower
 assert (r2 == "Sails lowered", "Expected Sails lowered, Got " + r2)
+
+print ("koniec")
